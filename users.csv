@@ -1,0 +1,10 @@
+User_ID,Username,Full_Name,Role,Department,Email,Salt,Password_Hash,Active
+U001,admin01,Lethabo Nyembezi,Administrator,IT & Administration,admin01@khwezimining.ac.za,aaf912da04acce2d,ae9bbb695e0ae0e3133084d24ff664b2703f6e297150a2c96472f8c0de66a138,Yes
+U002,safety01,Latoya Nkadimeng,Safety Officer,Health & Safety,safety01@khwezimining.ac.za,bf4cc3066759d1a3,67ec8b8e47d891c500cf8fd8b008e080e0433e07b81b450719279630eebfbc02,Yes
+U003,safety02,Tebogo Lucas Magxotywa,Safety Officer,Health & Safety,safety02@khwezimining.ac.za,eaf18f5de5e69e77,bbc26953853ed9d82f20406067c2afb23ad58641e5b16ac76631af371677f952,Yes
+U004,mine01,Jennifer Xikombelo,Mining Engineer,Mining,mine01@khwezimining.ac.za,739c6f145f1fd95e,7ed75e74e3f413a3ae73944e9720aa7ced5b86a1cee9c5c8487f04ec92395f57,Yes
+U005,mine02,Samkelo Mbata,Mining Engineer,Engineering,mine02@khwezimining.ac.za,1a36b9a4c7dcdb5a,00c8fa8eebf1aa804a220397471c7c0d5257d61de1b0786d27f3d992864ec559,Yes
+U006,maint01,Andiswa Khoza,Maintenance Engineer,Maintenance,maint01@khwezimining.ac.za,286bc0d45c675fca,7c40304016ad47f3320ae9550a326aa1f418ffd1824077ff834540f35ed40fc0,Yes
+U007,maint02,Lerato Sithole,Maintenance Engineer,Maintenance,maint02@khwezimining.ac.za,5c5b55b4a881b7e7,7471d24ec6991b8b25f193d2423c6301cd501585ab0afe3f0eb5c9dc39c60f05,Yes
+U008,mgr01,Karabo Nkosi,Manager,Operations,mgr01@khwezimining.ac.za,1720a1b8ce04672d,4fa712e3184fe27801fc4202d7ff902707f9aa4b946a4204bcd6e07e451092ac,Yes
+U009,former01,Marius Pretorius,Safety Officer,Health & Safety,former01@khwezimining.ac.za,4fb3c3dba2e71ca7,7209e63b71f58da33bd6d667ffd7522cb85fe78b52d6c169dbe7b7399c702ddb,No

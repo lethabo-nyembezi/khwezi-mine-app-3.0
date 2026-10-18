@@ -1,0 +1,241 @@
+Incident_ID,Date,Time,Shift,Location,Department,Incident_Type,Severity,Injury_Status,Lost_Time_Injury,Lost_Days,Cause,Corrective_Action,Incident_Status,Worker_ID,Equipment_ID
+INC-2026-0001,2026-01-07,04:35,Night,Stockpile,Mining,Vehicle/Equipment Collision,Low,No Injury (Property Damage),No,0,Brake or mechanical fault,Immediate repair and review of pre-use inspection,Closed,W-0044,TRK-059
+INC-2026-0002,2026-01-07,07:02,Day,Open Pit,Mining,Hazardous Substance/Dust Exposure,Low,No Injury (Property Damage),No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Under Investigation,W-0022,
+INC-2026-0003,2026-01-07,15:01,Day,Crusher Plant,Processing,Struck by Object/Equipment,Medium,No Injury (Property Damage),No,0,Loose materials not secured,Secure materials and add to pre-shift checklist,Closed,W-0098,CNV-030
+INC-2026-0004,2026-01-08,03:19,Night,Open Pit,Mining,Equipment Failure,Low,First Aid,No,0,Component wear,Replace worn component and adjust service interval,Closed,W-0033,TRK-002
+INC-2026-0005,2026-01-10,12:50,Day,Stockpile,Mining,Slip/Trip/Fall,Low,First Aid,No,0,Inadequate lighting,Install additional lighting and inspect weekly,Closed,W-0040,
+INC-2026-0006,2026-01-10,14:42,Day,Crusher Plant,Processing,Struck by Object/Equipment,Medium,Near Miss,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0083,TRK-007
+INC-2026-0007,2026-01-11,10:21,Day,Crusher Plant,Processing,Slip/Trip/Fall,Medium,First Aid,No,0,Wet or uneven surface,"Repair surface, install drainage and warning signage",Closed,W-0059,
+INC-2026-0008,2026-01-14,16:28,Day,Open Pit,Mining,Hazardous Substance/Dust Exposure,Medium,First Aid,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0041,
+INC-2026-0009,2026-01-15,05:09,Night,Crusher Plant,Processing,Struck by Object/Equipment,Medium,Medical Treatment,No,0,Inadequate supervision,Increase supervision and revise task allocation,Closed,W-0063,LDR-092
+INC-2026-0010,2026-01-18,15:52,Day,Haul Road,Mining,Struck by Object/Equipment,Medium,Medical Treatment,No,0,Exclusion zone not respected,Reinforce barricading and exclusion-zone training,Closed,W-0049,DRL-082
+INC-2026-0011,2026-01-19,06:37,Day,Haul Road,Mining,Vehicle/Equipment Collision,Low,First Aid,No,0,Poor visibility,"Improve lighting, mirrors and proximity detection",Closed,W-0020,WIN-037
+INC-2026-0012,2026-01-20,04:59,Night,Plant,Processing,Slip/Trip/Fall,Low,Near Miss,No,0,Poor housekeeping,Housekeeping blitz and daily area inspections,Closed,W-0065,
+INC-2026-0013,2026-01-20,17:25,Day,Plant,Processing,Slip/Trip/Fall,Medium,First Aid,No,0,Poor housekeeping,Housekeeping blitz and daily area inspections,Closed,W-0058,
+INC-2026-0014,2026-01-20,19:30,Night,Plant,Processing,Struck by Object/Equipment,Medium,No Injury (Property Damage),No,0,Inadequate supervision,Increase supervision and revise task allocation,Under Investigation,W-0088,BLD-008
+INC-2026-0015,2026-01-20,22:57,Night,Stockpile,Processing,Manual Handling,Low,First Aid,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Under Investigation,W-0064,
+INC-2026-0016,2026-01-22,15:54,Day,Crusher Plant,Processing,Slip/Trip/Fall,Low,First Aid,No,0,Poor housekeeping,Housekeeping blitz and daily area inspections,Under Investigation,W-0097,
+INC-2026-0017,2026-01-23,05:56,Night,Open Pit,Mining,Struck by Object/Equipment,Low,No Injury (Property Damage),No,0,Exclusion zone not respected,Reinforce barricading and exclusion-zone training,Closed,W-0010,CRS-076
+INC-2026-0018,2026-01-24,22:56,Night,Haul Road,Mining,Struck by Object/Equipment,High,Lost Time Injury,Yes,40,Exclusion zone not respected,Reinforce barricading and exclusion-zone training,Closed,W-0015,TRK-073
+INC-2026-0019,2026-01-25,23:22,Night,Haul Road,Mining,Slip/Trip/Fall,Low,First Aid,No,0,Poor housekeeping,Housekeeping blitz and daily area inspections,Closed,W-0036,
+INC-2026-0020,2026-01-26,03:40,Night,Open Pit,Maintenance,Struck by Object/Equipment,Low,Near Miss,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0107,EXC-054
+INC-2026-0021,2026-01-26,12:26,Day,Haul Road,Mining,Manual Handling,Low,First Aid,No,0,PPE not worn correctly,PPE enforcement and refresher training,Under Investigation,W-0031,
+INC-2026-0022,2026-01-26,18:46,Night,Plant,Processing,Equipment Failure,High,Medical Treatment,No,0,Overheating,Inspect cooling system and monitor temperature,Closed,W-0088,CRS-095
+INC-2026-0023,2026-01-28,00:35,Night,Stockpile,Mining,Manual Handling,High,Lost Time Injury,Yes,19,Worker fatigue,Fatigue management review and shift roster adjustment,Under Investigation,W-0006,
+INC-2026-0024,2026-01-31,00:49,Night,Haul Road,Mining,Struck by Object/Equipment,Medium,No Injury (Property Damage),No,0,Poor visibility,"Improve lighting, mirrors and proximity detection",Closed,W-0007,DRL-010
+INC-2026-0025,2026-02-02,12:23,Day,Crusher Plant,Processing,Slip/Trip/Fall,Medium,First Aid,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0083,
+INC-2026-0026,2026-02-02,22:25,Night,Plant,Processing,Equipment Failure,High,Lost Time Injury,Yes,8,Operator error,Operator retraining and competency assessment,Closed,W-0088,CNV-064
+INC-2026-0027,2026-02-03,20:36,Night,Stockpile,Mining,Vehicle/Equipment Collision,High,Lost Time Injury,Yes,14,Speeding,Speed monitoring and disciplinary review,Closed,W-0042,DRL-089
+INC-2026-0028,2026-02-05,07:11,Day,Stockpile,Processing,Struck by Object/Equipment,High,Medical Treatment,No,0,Inadequate supervision,Increase supervision and revise task allocation,Closed,W-0097,EXC-017
+INC-2026-0029,2026-02-06,00:12,Night,Haul Road,Mining,Struck by Object/Equipment,Low,First Aid,No,0,Poor visibility,"Improve lighting, mirrors and proximity detection",Closed,W-0023,EXC-039
+INC-2026-0030,2026-02-07,04:35,Night,Stockpile,Mining,Struck by Object/Equipment,Low,First Aid,No,0,Poor visibility,"Improve lighting, mirrors and proximity detection",Closed,W-0039,WIN-033
+INC-2026-0031,2026-02-07,05:43,Night,Haul Road,Mining,Struck by Object/Equipment,Medium,Medical Treatment,No,0,Poor visibility,"Improve lighting, mirrors and proximity detection",Closed,W-0001,TRK-073
+INC-2026-0032,2026-02-08,06:54,Day,Crusher Plant,Maintenance,Slip/Trip/Fall,Low,First Aid,No,0,Wet or uneven surface,"Repair surface, install drainage and warning signage",Closed,W-0125,
+INC-2026-0033,2026-02-09,17:46,Day,Crusher Plant,Maintenance,Equipment Failure,Low,No Injury (Property Damage),No,0,Overheating,Inspect cooling system and monitor temperature,Closed,W-0104,TRK-055
+INC-2026-0034,2026-02-09,23:01,Night,Plant,Processing,Struck by Object/Equipment,Low,Near Miss,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0082,CRS-095
+INC-2026-0035,2026-02-11,11:00,Day,Open Pit,Mining,Struck by Object/Equipment,Low,No Injury (Property Damage),No,0,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0041,CRS-076
+INC-2026-0036,2026-02-11,16:17,Day,Stockpile,Mining,Slip/Trip/Fall,High,Lost Time Injury,Yes,26,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0031,
+INC-2026-0037,2026-02-12,02:25,Night,Open Pit,Mining,Slip/Trip/Fall,Low,First Aid,No,0,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0044,
+INC-2026-0038,2026-02-12,04:22,Night,Plant,Processing,Hazardous Substance/Dust Exposure,Low,Near Miss,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0086,
+INC-2026-0039,2026-02-13,01:35,Night,Open Pit,Mining,Manual Handling,High,Medical Treatment,No,0,Poor lifting technique,Manual handling training,Closed,W-0027,
+INC-2026-0040,2026-02-13,20:42,Night,Stockpile,Processing,Struck by Object/Equipment,Medium,No Injury (Property Damage),No,0,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0068,CNV-027
+INC-2026-0041,2026-02-13,20:47,Night,Open Pit,Mining,Equipment Failure,Critical,Lost Time Injury,Yes,30,Operator error,Operator retraining and competency assessment,Closed,W-0007,LDR-022
+INC-2026-0042,2026-02-14,21:45,Night,Plant,Maintenance,Struck by Object/Equipment,Low,Near Miss,No,0,Loose materials not secured,Secure materials and add to pre-shift checklist,Under Investigation,W-0108,LDR-009
+INC-2026-0043,2026-02-18,19:45,Night,Crusher Plant,Processing,Slip/Trip/Fall,Low,First Aid,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Under Investigation,W-0065,
+INC-2026-0044,2026-02-18,22:34,Night,Open Pit,Mining,Vehicle/Equipment Collision,Low,First Aid,No,0,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0044,CNV-069
+INC-2026-0045,2026-02-19,04:27,Night,Open Pit,Mining,Fall of Ground,Medium,Near Miss,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0044,
+INC-2026-0046,2026-02-19,05:08,Night,Open Pit,Mining,Fall of Ground,Medium,Near Miss,No,0,Blast vibration,Review blast design and re-entry times,Closed,W-0039,
+INC-2026-0047,2026-02-19,13:37,Day,Crusher Plant,Processing,Slip/Trip/Fall,Low,First Aid,No,0,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0098,
+INC-2026-0048,2026-02-19,14:09,Day,Open Pit,Mining,Struck by Object/Equipment,Low,First Aid,No,0,Exclusion zone not respected,Reinforce barricading and exclusion-zone training,Closed,W-0017,TRK-067
+INC-2026-0049,2026-02-20,04:43,Night,Open Pit,Maintenance,Struck by Object/Equipment,High,Near Miss,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0129,CRS-020
+INC-2026-0050,2026-02-21,00:20,Night,Plant,Processing,Slip/Trip/Fall,High,Medical Treatment,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0070,
+INC-2026-0051,2026-02-22,03:31,Night,Open Pit,Engineering,Fall of Ground,Low,Near Miss,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0146,
+INC-2026-0052,2026-02-23,14:49,Day,Open Pit,Maintenance,Manual Handling,Low,Near Miss,No,0,Poor lifting technique,Manual handling training,Closed,W-0119,
+INC-2026-0053,2026-02-23,20:48,Night,Plant,Processing,Equipment Failure,High,Medical Treatment,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0068,CRS-058
+INC-2026-0054,2026-02-24,02:12,Night,Workshop,Engineering,Equipment Failure,High,Lost Time Injury,Yes,15,Operator error,Operator retraining and competency assessment,Closed,W-0145,EXC-045
+INC-2026-0055,2026-02-25,03:24,Night,Open Pit,Mining,Vehicle/Equipment Collision,Medium,Medical Treatment,No,0,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0044,CNV-025
+INC-2026-0056,2026-02-27,01:20,Night,Stockpile,Processing,Hazardous Substance/Dust Exposure,Low,First Aid,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0070,
+INC-2026-0057,2026-02-27,06:47,Day,Open Pit,Maintenance,Equipment Failure,Medium,No Injury (Property Damage),No,0,Overdue maintenance,Complete overdue maintenance and review planning,Under Investigation,W-0124,EXC-062
+INC-2026-0058,2026-03-05,21:29,Night,Haul Road,Mining,Struck by Object/Equipment,High,No Injury (Property Damage),No,0,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0050,TRK-073
+INC-2026-0059,2026-03-06,11:21,Day,Plant,Maintenance,Struck by Object/Equipment,Low,First Aid,No,0,Loose materials not secured,Secure materials and add to pre-shift checklist,Closed,W-0106,WIN-012
+INC-2026-0060,2026-03-07,02:35,Night,Stockpile,Processing,Equipment Failure,Low,First Aid,No,0,Overheating,Inspect cooling system and monitor temperature,Closed,W-0070,TRK-094
+INC-2026-0061,2026-03-07,04:32,Night,Stockpile,Mining,Slip/Trip/Fall,Low,No Injury (Property Damage),No,0,Procedure not followed,Toolbox talk and supervisor re-induction on procedure,Closed,W-0025,
+INC-2026-0062,2026-03-07,18:09,Night,Stockpile,Processing,Equipment Failure,Low,No Injury (Property Damage),No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0082,EXC-017
+INC-2026-0063,2026-03-09,19:27,Night,Open Pit,Maintenance,Manual Handling,Medium,No Injury (Property Damage),No,0,Heavy load without lifting aids,Provide lifting aids and two-person lift rule,Closed,W-0113,
+INC-2026-0064,2026-03-10,20:42,Night,Workshop,Maintenance,Manual Handling,Medium,First Aid,No,0,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0130,
+INC-2026-0065,2026-03-11,22:50,Night,Plant,Processing,Slip/Trip/Fall,Critical,Lost Time Injury,Yes,33,Inadequate lighting,Install additional lighting and inspect weekly,Closed,W-0080,
+INC-2026-0066,2026-03-14,15:38,Day,Workshop,Maintenance,Electrical Hazard,Medium,First Aid,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0116,WIN-072
+INC-2026-0067,2026-03-16,17:06,Day,Plant,Engineering,Slip/Trip/Fall,Medium,No Injury (Property Damage),No,0,Inadequate lighting,Install additional lighting and inspect weekly,Closed,W-0135,
+INC-2026-0068,2026-03-18,02:49,Night,Crusher Plant,Processing,Struck by Object/Equipment,Medium,No Injury (Property Damage),No,0,Exclusion zone not respected,Reinforce barricading and exclusion-zone training,Under Investigation,W-0093,TRK-091
+INC-2026-0069,2026-03-18,13:52,Day,Open Pit,Mining,Fall of Ground,Low,Near Miss,No,0,Poor ground conditions,Geotechnical review and additional ground support,Closed,W-0051,
+INC-2026-0070,2026-03-19,19:36,Night,Crusher Plant,Maintenance,Slip/Trip/Fall,Medium,Medical Treatment,No,0,Procedure not followed,Toolbox talk and supervisor re-induction on procedure,Closed,W-0129,
+INC-2026-0071,2026-03-20,19:03,Night,Stockpile,Processing,Slip/Trip/Fall,Medium,First Aid,No,0,Inadequate lighting,Install additional lighting and inspect weekly,Closed,W-0064,
+INC-2026-0072,2026-03-21,06:16,Day,Open Pit,Mining,Vehicle/Equipment Collision,High,No Injury (Property Damage),No,0,Poor visibility,"Improve lighting, mirrors and proximity detection",Closed,W-0009,EXC-024
+INC-2026-0073,2026-03-21,17:04,Day,Plant,Processing,Manual Handling,Medium,Near Miss,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0083,
+INC-2026-0074,2026-03-21,23:01,Night,Plant,Maintenance,Fire/Explosion Hazard,High,Lost Time Injury,Yes,19,Overheated equipment,Inspect equipment and review thermal alarms,Closed,W-0103,WIN-012
+INC-2026-0075,2026-03-23,21:11,Night,Haul Road,Mining,Equipment Failure,Low,First Aid,No,0,Excessive vibration,Inspect bearings and alignment; monitor vibration,Closed,W-0015,TRK-073
+INC-2026-0076,2026-03-25,11:44,Day,Stockpile,Mining,Vehicle/Equipment Collision,Low,Near Miss,No,0,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0051,EXC-017
+INC-2026-0077,2026-03-25,18:09,Night,Open Pit,Mining,Struck by Object/Equipment,Low,Near Miss,No,0,Exclusion zone not respected,Reinforce barricading and exclusion-zone training,Closed,W-0054,TRK-067
+INC-2026-0078,2026-03-26,01:02,Night,Open Pit,Mining,Slip/Trip/Fall,Low,First Aid,No,0,Poor housekeeping,Housekeeping blitz and daily area inspections,Closed,W-0033,
+INC-2026-0079,2026-03-27,04:47,Night,Workshop,Engineering,Slip/Trip/Fall,Low,No Injury (Property Damage),No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0149,
+INC-2026-0080,2026-03-27,08:37,Day,Open Pit,Maintenance,Struck by Object/Equipment,Medium,Near Miss,No,0,Inadequate supervision,Increase supervision and revise task allocation,Closed,W-0105,DRL-096
+INC-2026-0081,2026-03-28,22:10,Night,Stockpile,Mining,Fall of Ground,Medium,First Aid,No,0,Inadequate support or scaling,Re-scale and install support before re-entry,Closed,W-0036,
+INC-2026-0082,2026-03-29,00:52,Night,Open Pit,Maintenance,Fire/Explosion Hazard,Medium,No Injury (Property Damage),No,0,Hot work without permit,Enforce hot work permit system,Closed,W-0128,TRK-067
+INC-2026-0083,2026-03-31,23:33,Night,Plant,Processing,Hazardous Substance/Dust Exposure,Low,First Aid,No,0,Chemical spill,Spill response and storage review,Closed,W-0078,
+INC-2026-0084,2026-04-01,02:04,Night,Plant,Maintenance,Manual Handling,Low,No Injury (Property Damage),No,0,Heavy load without lifting aids,Provide lifting aids and two-person lift rule,Closed,W-0129,
+INC-2026-0085,2026-04-01,17:02,Day,Open Pit,Maintenance,Manual Handling,High,Lost Time Injury,Yes,17,Heavy load without lifting aids,Provide lifting aids and two-person lift rule,Closed,W-0125,
+INC-2026-0086,2026-04-01,19:10,Night,Haul Road,Mining,Struck by Object/Equipment,High,Medical Treatment,No,0,Poor visibility,"Improve lighting, mirrors and proximity detection",Closed,W-0013,LDR-032
+INC-2026-0087,2026-04-02,18:13,Night,Open Pit,Mining,Vehicle/Equipment Collision,High,No Injury (Property Damage),No,0,Poor visibility,"Improve lighting, mirrors and proximity detection",Closed,W-0055,CNV-025
+INC-2026-0088,2026-04-03,01:45,Night,Stockpile,Mining,Slip/Trip/Fall,Critical,Lost Time Injury,Yes,21,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0039,
+INC-2026-0089,2026-04-05,02:49,Night,Crusher Plant,Processing,Hazardous Substance/Dust Exposure,Medium,No Injury (Property Damage),No,0,Dust suppression failure,Repair dust suppression and monitor,Closed,W-0060,
+INC-2026-0090,2026-04-08,20:31,Night,Plant,Maintenance,Electrical Hazard,Medium,No Injury (Property Damage),No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0101,WIN-049
+INC-2026-0091,2026-04-09,05:48,Night,Open Pit,Mining,Equipment Failure,Medium,No Injury (Property Damage),No,0,Overdue maintenance,Complete overdue maintenance and review planning,Closed,W-0015,CNV-025
+INC-2026-0092,2026-04-09,08:38,Day,Open Pit,Mining,Slip/Trip/Fall,Low,Near Miss,No,0,Wet or uneven surface,"Repair surface, install drainage and warning signage",Closed,W-0051,
+INC-2026-0093,2026-04-09,13:55,Day,Open Pit,Mining,Vehicle/Equipment Collision,Low,Near Miss,No,0,Inadequate traffic management,Revise traffic management plan and signage,Under Investigation,W-0002,TRK-002
+INC-2026-0094,2026-04-09,20:30,Night,Stockpile,Mining,Equipment Failure,Low,First Aid,No,0,Overheating,Inspect cooling system and monitor temperature,Under Investigation,W-0036,DRL-089
+INC-2026-0095,2026-04-13,12:58,Day,Plant,Maintenance,Struck by Object/Equipment,Low,First Aid,No,0,Poor visibility,"Improve lighting, mirrors and proximity detection",Closed,W-0104,CRS-095
+INC-2026-0096,2026-04-17,05:58,Night,Crusher Plant,Maintenance,Electrical Hazard,Medium,No Injury (Property Damage),No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0129,EXC-044
+INC-2026-0097,2026-04-18,12:24,Day,Crusher Plant,Maintenance,Struck by Object/Equipment,Low,First Aid,No,0,Exclusion zone not respected,Reinforce barricading and exclusion-zone training,Closed,W-0104,WIN-093
+INC-2026-0098,2026-04-18,19:19,Night,Workshop,Maintenance,Slip/Trip/Fall,High,Medical Treatment,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0123,
+INC-2026-0099,2026-04-20,07:27,Day,Crusher Plant,Maintenance,Slip/Trip/Fall,Low,Near Miss,No,0,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0125,
+INC-2026-0100,2026-04-20,13:24,Day,Open Pit,Engineering,Slip/Trip/Fall,Low,Near Miss,No,0,Inadequate lighting,Install additional lighting and inspect weekly,Closed,W-0131,
+INC-2026-0101,2026-04-21,09:42,Day,Plant,Processing,Hazardous Substance/Dust Exposure,Low,First Aid,No,0,PPE not worn correctly,PPE enforcement and refresher training,Under Investigation,W-0083,
+INC-2026-0102,2026-04-22,10:39,Day,Stockpile,Mining,Vehicle/Equipment Collision,Medium,First Aid,No,0,Inadequate traffic management,Revise traffic management plan and signage,Closed,W-0038,LDR-051
+INC-2026-0103,2026-04-23,07:38,Day,Stockpile,Processing,Manual Handling,Low,First Aid,No,0,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0092,
+INC-2026-0104,2026-04-24,03:09,Night,Open Pit,Maintenance,Struck by Object/Equipment,Medium,First Aid,No,0,Loose materials not secured,Secure materials and add to pre-shift checklist,Closed,W-0130,CNV-025
+INC-2026-0105,2026-04-25,19:13,Night,Plant,Processing,Equipment Failure,Medium,First Aid,No,0,Operator error,Operator retraining and competency assessment,Closed,W-0065,DRL-021
+INC-2026-0106,2026-04-26,06:14,Day,Crusher Plant,Maintenance,Electrical Hazard,Low,First Aid,No,0,Damaged cable or insulation,Replace cable and inspect circuit,Closed,W-0124,CNV-036
+INC-2026-0107,2026-04-28,05:07,Night,Haul Road,Mining,Vehicle/Equipment Collision,Low,Near Miss,No,0,Poor visibility,"Improve lighting, mirrors and proximity detection",Closed,W-0018,TRK-073
+INC-2026-0108,2026-04-28,14:41,Day,Workshop,Maintenance,Slip/Trip/Fall,Medium,No Injury (Property Damage),No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0117,
+INC-2026-0109,2026-04-28,16:06,Day,Stockpile,Mining,Struck by Object/Equipment,High,Medical Treatment,No,0,Poor visibility,"Improve lighting, mirrors and proximity detection",Closed,W-0037,CNV-027
+INC-2026-0110,2026-04-30,22:25,Night,Plant,Maintenance,Struck by Object/Equipment,Low,No Injury (Property Damage),No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Under Investigation,W-0121,CRS-095
+INC-2026-0111,2026-05-01,12:32,Day,Open Pit,Engineering,Slip/Trip/Fall,Low,First Aid,No,0,Wet or uneven surface,"Repair surface, install drainage and warning signage",Closed,W-0143,
+INC-2026-0112,2026-05-02,02:06,Night,Open Pit,Engineering,Fall of Ground,Low,No Injury (Property Damage),No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0132,
+INC-2026-0113,2026-05-02,02:18,Night,Crusher Plant,Processing,Hazardous Substance/Dust Exposure,Low,No Injury (Property Damage),No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0075,
+INC-2026-0114,2026-05-04,05:39,Night,Crusher Plant,Processing,Hazardous Substance/Dust Exposure,High,Medical Treatment,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0071,
+INC-2026-0115,2026-05-05,16:40,Day,Stockpile,Processing,Slip/Trip/Fall,High,Lost Time Injury,Yes,22,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0083,
+INC-2026-0116,2026-05-07,11:19,Day,Haul Road,Mining,Equipment Failure,Low,Near Miss,No,0,Overheating,Inspect cooling system and monitor temperature,Closed,W-0024,TRK-073
+INC-2026-0117,2026-05-08,03:52,Night,Plant,Maintenance,Fire/Explosion Hazard,Low,Near Miss,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0114,WIN-098
+INC-2026-0118,2026-05-11,09:02,Day,Crusher Plant,Maintenance,Struck by Object/Equipment,Low,Near Miss,No,0,Poor visibility,"Improve lighting, mirrors and proximity detection",Closed,W-0109,BLD-087
+INC-2026-0119,2026-05-11,10:46,Day,Open Pit,Mining,Vehicle/Equipment Collision,High,Lost Time Injury,Yes,5,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0041,DRL-096
+INC-2026-0120,2026-05-11,21:18,Night,Open Pit,Maintenance,Manual Handling,Low,Near Miss,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0113,
+INC-2026-0121,2026-05-12,22:47,Night,Haul Road,Mining,Struck by Object/Equipment,Low,Near Miss,No,0,Loose materials not secured,Secure materials and add to pre-shift checklist,Closed,W-0042,DRL-082
+INC-2026-0122,2026-05-13,13:12,Day,Crusher Plant,Processing,Equipment Failure,Low,Near Miss,No,0,Operator error,Operator retraining and competency assessment,Closed,W-0084,CNV-003
+INC-2026-0123,2026-05-13,21:30,Night,Open Pit,Mining,Vehicle/Equipment Collision,High,Lost Time Injury,Yes,14,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0044,CRS-048
+INC-2026-0124,2026-05-15,22:38,Night,Stockpile,Mining,Vehicle/Equipment Collision,Low,First Aid,No,0,Speeding,Speed monitoring and disciplinary review,Closed,W-0026,DRL-089
+INC-2026-0125,2026-05-16,06:06,Day,Workshop,Maintenance,Fire/Explosion Hazard,Low,First Aid,No,0,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0127,LDR-001
+INC-2026-0126,2026-05-16,11:50,Day,Open Pit,Maintenance,Electrical Hazard,Low,First Aid,No,0,Wet conditions,Improve drainage and use rated equipment,Closed,W-0111,CRS-076
+INC-2026-0127,2026-05-17,18:22,Night,Stockpile,Processing,Equipment Failure,Low,First Aid,No,0,Overheating,Inspect cooling system and monitor temperature,Closed,W-0081,WIN-013
+INC-2026-0128,2026-05-19,13:10,Day,Stockpile,Mining,Fall of Ground,Medium,No Injury (Property Damage),No,0,Poor ground conditions,Geotechnical review and additional ground support,Closed,W-0049,
+INC-2026-0129,2026-05-19,22:29,Night,Haul Road,Mining,Fall of Ground,Medium,No Injury (Property Damage),No,0,Inadequate support or scaling,Re-scale and install support before re-entry,Closed,W-0026,
+INC-2026-0130,2026-05-21,06:36,Day,Open Pit,Maintenance,Electrical Hazard,Low,First Aid,No,0,Damaged cable or insulation,Replace cable and inspect circuit,Closed,W-0116,LDR-022
+INC-2026-0131,2026-05-21,16:16,Day,Stockpile,Mining,Manual Handling,Medium,First Aid,No,0,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0051,
+INC-2026-0132,2026-05-22,07:48,Day,Open Pit,Mining,Electrical Hazard,High,Lost Time Injury,Yes,21,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0041,EXC-062
+INC-2026-0133,2026-05-22,09:17,Day,Stockpile,Processing,Struck by Object/Equipment,Low,Near Miss,No,0,Poor visibility,"Improve lighting, mirrors and proximity detection",Closed,W-0057,WIN-033
+INC-2026-0134,2026-05-24,10:38,Day,Plant,Maintenance,Struck by Object/Equipment,Medium,First Aid,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0115,CRS-004
+INC-2026-0135,2026-05-27,01:38,Night,Plant,Processing,Struck by Object/Equipment,Low,First Aid,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0082,CRS-085
+INC-2026-0136,2026-05-27,13:13,Day,Crusher Plant,Maintenance,Struck by Object/Equipment,Low,Near Miss,No,0,Inadequate supervision,Increase supervision and revise task allocation,Closed,W-0111,BLD-006
+INC-2026-0137,2026-05-27,13:37,Day,Crusher Plant,Processing,Manual Handling,High,Lost Time Injury,Yes,2,Poor lifting technique,Manual handling training,Closed,W-0097,
+INC-2026-0138,2026-05-29,17:16,Day,Open Pit,Maintenance,Hazardous Substance/Dust Exposure,High,Medical Treatment,No,0,Respiratory PPE not worn,Enforce respiratory PPE and fit testing,Closed,W-0127,
+INC-2026-0139,2026-05-30,03:56,Night,Haul Road,Mining,Equipment Failure,Medium,Medical Treatment,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0039,LDR-061
+INC-2026-0140,2026-05-30,22:31,Night,Haul Road,Mining,Vehicle/Equipment Collision,Low,Near Miss,No,0,Inadequate traffic management,Revise traffic management plan and signage,Closed,W-0010,WIN-090
+INC-2026-0141,2026-06-01,05:03,Night,Crusher Plant,Maintenance,Struck by Object/Equipment,Critical,Lost Time Injury,Yes,22,Poor visibility,"Improve lighting, mirrors and proximity detection",Closed,W-0107,EXC-057
+INC-2026-0142,2026-06-01,12:14,Day,Open Pit,Mining,Slip/Trip/Fall,High,Near Miss,No,0,Procedure not followed,Toolbox talk and supervisor re-induction on procedure,Closed,W-0030,
+INC-2026-0143,2026-06-04,12:34,Day,Stockpile,Processing,Struck by Object/Equipment,Low,First Aid,No,0,Exclusion zone not respected,Reinforce barricading and exclusion-zone training,Closed,W-0100,DRL-089
+INC-2026-0144,2026-06-04,14:21,Day,Haul Road,Mining,Struck by Object/Equipment,Medium,First Aid,No,0,Poor visibility,"Improve lighting, mirrors and proximity detection",Closed,W-0003,DRL-082
+INC-2026-0145,2026-06-05,14:20,Day,Stockpile,Mining,Vehicle/Equipment Collision,Medium,No Injury (Property Damage),No,0,Brake or mechanical fault,Immediate repair and review of pre-use inspection,Closed,W-0040,CRS-068
+INC-2026-0146,2026-06-08,06:26,Day,Open Pit,Maintenance,Struck by Object/Equipment,Low,First Aid,No,0,Exclusion zone not respected,Reinforce barricading and exclusion-zone training,Closed,W-0106,WIN-040
+INC-2026-0147,2026-06-08,21:19,Night,Stockpile,Processing,Struck by Object/Equipment,Low,Near Miss,No,0,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0068,CNV-047
+INC-2026-0148,2026-06-09,07:58,Day,Stockpile,Processing,Hazardous Substance/Dust Exposure,High,Medical Treatment,No,0,Inadequate ventilation,Improve ventilation and monitor air quality,Closed,W-0096,
+INC-2026-0149,2026-06-09,10:15,Day,Open Pit,Mining,Vehicle/Equipment Collision,Medium,Medical Treatment,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0035,CRS-020
+INC-2026-0150,2026-06-10,11:42,Day,Crusher Plant,Processing,Fire/Explosion Hazard,Medium,Near Miss,No,0,Hydraulic fluid leak,Repair leak and clean spill,Closed,W-0098,LDR-092
+INC-2026-0151,2026-06-10,20:14,Night,Stockpile,Mining,Slip/Trip/Fall,Medium,Medical Treatment,No,0,Poor housekeeping,Housekeeping blitz and daily area inspections,Under Investigation,W-0019,
+INC-2026-0152,2026-06-13,15:34,Day,Haul Road,Mining,Equipment Failure,Medium,Medical Treatment,No,0,Operator error,Operator retraining and competency assessment,Closed,W-0030,DRL-010
+INC-2026-0153,2026-06-14,10:49,Day,Stockpile,Mining,Vehicle/Equipment Collision,Low,No Injury (Property Damage),No,0,Speeding,Speed monitoring and disciplinary review,Closed,W-0029,DRL-089
+INC-2026-0154,2026-06-14,18:02,Night,Stockpile,Mining,Struck by Object/Equipment,Low,No Injury (Property Damage),No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0015,CNV-027
+INC-2026-0155,2026-06-15,00:43,Night,Open Pit,Mining,Hazardous Substance/Dust Exposure,Medium,Medical Treatment,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0018,
+INC-2026-0156,2026-06-15,21:51,Night,Stockpile,Mining,Equipment Failure,Low,First Aid,No,0,Overdue maintenance,Complete overdue maintenance and review planning,Closed,W-0015,WIN-013
+INC-2026-0157,2026-06-17,02:35,Night,Haul Road,Mining,Vehicle/Equipment Collision,High,Medical Treatment,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Under Investigation,W-0027,WIN-037
+INC-2026-0158,2026-06-18,07:16,Day,Stockpile,Mining,Slip/Trip/Fall,Low,First Aid,No,0,Poor housekeeping,Housekeeping blitz and daily area inspections,Closed,W-0002,
+INC-2026-0159,2026-06-19,08:01,Day,Plant,Maintenance,Struck by Object/Equipment,Low,No Injury (Property Damage),No,0,Poor visibility,"Improve lighting, mirrors and proximity detection",Under Investigation,W-0116,LDR-009
+INC-2026-0160,2026-06-19,10:58,Day,Haul Road,Mining,Fall of Ground,Medium,Medical Treatment,No,0,Inadequate geotechnical inspection,Strengthen inspection schedule,Closed,W-0004,
+INC-2026-0161,2026-06-25,19:16,Night,Stockpile,Mining,Fall of Ground,Medium,First Aid,No,0,Inadequate geotechnical inspection,Strengthen inspection schedule,Closed,W-0054,
+INC-2026-0162,2026-06-25,21:37,Night,Crusher Plant,Processing,Hazardous Substance/Dust Exposure,Low,First Aid,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0078,
+INC-2026-0163,2026-06-26,00:42,Night,Stockpile,Mining,Fall of Ground,Low,Near Miss,No,0,Inadequate support or scaling,Re-scale and install support before re-entry,Closed,W-0018,
+INC-2026-0164,2026-06-27,21:23,Night,Open Pit,Maintenance,Electrical Hazard,High,No Injury (Property Damage),No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0129,CNV-011
+INC-2026-0165,2026-06-28,15:31,Day,Open Pit,Mining,Vehicle/Equipment Collision,Medium,No Injury (Property Damage),No,0,Inadequate traffic management,Revise traffic management plan and signage,Closed,W-0040,TRK-067
+INC-2026-0166,2026-06-29,05:43,Night,Workshop,Maintenance,Slip/Trip/Fall,Low,First Aid,No,0,Poor housekeeping,Housekeeping blitz and daily area inspections,Closed,W-0130,
+INC-2026-0167,2026-07-04,04:35,Night,Open Pit,Mining,Slip/Trip/Fall,Medium,Medical Treatment,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0039,
+INC-2026-0168,2026-07-04,08:54,Day,Stockpile,Mining,Equipment Failure,Low,Near Miss,No,0,Excessive vibration,Inspect bearings and alignment; monitor vibration,Closed,W-0008,DRL-089
+INC-2026-0169,2026-07-04,16:39,Day,Open Pit,Engineering,Slip/Trip/Fall,Medium,First Aid,No,0,Wet or uneven surface,"Repair surface, install drainage and warning signage",Closed,W-0136,
+INC-2026-0170,2026-07-06,10:12,Day,Workshop,Engineering,Slip/Trip/Fall,Low,No Injury (Property Damage),No,0,Procedure not followed,Toolbox talk and supervisor re-induction on procedure,Closed,W-0133,
+INC-2026-0171,2026-07-06,16:57,Day,Workshop,Engineering,Equipment Failure,Medium,Near Miss,No,0,Excessive vibration,Inspect bearings and alignment; monitor vibration,Closed,W-0139,CRS-034
+INC-2026-0172,2026-07-08,08:41,Day,Plant,Processing,Hazardous Substance/Dust Exposure,Low,Near Miss,No,0,Dust suppression failure,Repair dust suppression and monitor,Closed,W-0059,
+INC-2026-0173,2026-07-08,14:49,Day,Stockpile,Mining,Electrical Hazard,Low,First Aid,No,0,Inadequate isolation (LOTO not applied),LOTO retraining and audit,Closed,W-0040,DRL-089
+INC-2026-0174,2026-07-09,17:52,Day,Stockpile,Processing,Slip/Trip/Fall,Low,First Aid,No,0,Inadequate lighting,Install additional lighting and inspect weekly,Closed,W-0083,
+INC-2026-0175,2026-07-11,05:24,Night,Crusher Plant,Processing,Hazardous Substance/Dust Exposure,Low,Near Miss,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0063,
+INC-2026-0176,2026-07-13,20:18,Night,Open Pit,Mining,Equipment Failure,High,Lost Time Injury,Yes,40,Overdue maintenance,Complete overdue maintenance and review planning,Closed,W-0044,CRS-020
+INC-2026-0177,2026-07-14,11:55,Day,Open Pit,Mining,Vehicle/Equipment Collision,Medium,First Aid,No,0,Brake or mechanical fault,Immediate repair and review of pre-use inspection,Under Investigation,W-0038,LDR-014
+INC-2026-0178,2026-07-14,14:48,Day,Workshop,Maintenance,Equipment Failure,Low,No Injury (Property Damage),No,0,Overdue maintenance,Complete overdue maintenance and review planning,Closed,W-0117,EXC-081
+INC-2026-0179,2026-07-14,21:13,Night,Workshop,Maintenance,Slip/Trip/Fall,Medium,No Injury (Property Damage),No,0,Inadequate lighting,Install additional lighting and inspect weekly,Closed,W-0114,
+INC-2026-0180,2026-07-16,16:07,Day,Stockpile,Mining,Electrical Hazard,Low,First Aid,No,0,Damaged cable or insulation,Replace cable and inspect circuit,Closed,W-0030,WIN-033
+INC-2026-0181,2026-07-17,22:10,Night,Workshop,Maintenance,Manual Handling,Low,Near Miss,No,0,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0129,
+INC-2026-0182,2026-07-18,23:40,Night,Open Pit,Mining,Equipment Failure,High,Lost Time Injury,Yes,5,Overheating,Inspect cooling system and monitor temperature,Closed,W-0027,CNV-025
+INC-2026-0183,2026-07-19,23:54,Night,Open Pit,Mining,Slip/Trip/Fall,Low,No Injury (Property Damage),No,0,Inadequate lighting,Install additional lighting and inspect weekly,Closed,W-0012,
+INC-2026-0184,2026-07-20,01:09,Night,Open Pit,Engineering,Vehicle/Equipment Collision,Medium,Medical Treatment,No,0,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0148,LDR-050
+INC-2026-0185,2026-07-24,11:21,Day,Plant,Engineering,Manual Handling,Medium,No Injury (Property Damage),No,0,Poor lifting technique,Manual handling training,Closed,W-0133,
+INC-2026-0186,2026-07-24,11:34,Day,Workshop,Maintenance,Manual Handling,High,Medical Treatment,No,0,Heavy load without lifting aids,Provide lifting aids and two-person lift rule,Closed,W-0106,
+INC-2026-0187,2026-07-24,23:56,Night,Haul Road,Mining,Vehicle/Equipment Collision,Critical,Lost Time Injury,Yes,32,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0010,DRL-082
+INC-2026-0188,2026-07-26,01:09,Night,Open Pit,Mining,Fall of Ground,Medium,Near Miss,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0033,
+INC-2026-0189,2026-07-28,16:17,Day,Stockpile,Mining,Equipment Failure,High,Lost Time Injury,Yes,21,Component wear,Replace worn component and adjust service interval,Closed,W-0031,LDR-051
+INC-2026-0190,2026-07-29,21:50,Night,Open Pit,Mining,Slip/Trip/Fall,High,Lost Time Injury,Yes,26,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0018,
+INC-2026-0191,2026-07-30,20:52,Night,Crusher Plant,Processing,Equipment Failure,Medium,Near Miss,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0076,BLD-018
+INC-2026-0192,2026-07-31,00:58,Night,Plant,Engineering,Slip/Trip/Fall,Low,First Aid,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0132,
+INC-2026-0193,2026-07-31,12:34,Day,Stockpile,Processing,Hazardous Substance/Dust Exposure,Medium,First Aid,No,0,Inadequate ventilation,Improve ventilation and monitor air quality,Under Investigation,W-0099,
+INC-2026-0194,2026-08-02,12:42,Day,Plant,Maintenance,Electrical Hazard,High,Medical Treatment,No,0,PPE not worn correctly,PPE enforcement and refresher training,Closed,W-0111,CNV-064
+INC-2026-0195,2026-08-05,11:29,Day,Haul Road,Mining,Vehicle/Equipment Collision,Low,First Aid,No,0,Speeding,Speed monitoring and disciplinary review,Closed,W-0048,DRL-082
+INC-2026-0196,2026-08-08,13:03,Day,Crusher Plant,Maintenance,Struck by Object/Equipment,High,Medical Treatment,No,0,Loose materials not secured,Secure materials and add to pre-shift checklist,Closed,W-0124,BLD-018
+INC-2026-0197,2026-08-09,01:58,Night,Plant,Processing,Equipment Failure,Low,First Aid,No,0,Component wear,Replace worn component and adjust service interval,Closed,W-0076,CRS-004
+INC-2026-0198,2026-08-11,02:08,Night,Stockpile,Mining,Manual Handling,Low,First Aid,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0033,
+INC-2026-0199,2026-08-11,07:17,Day,Open Pit,Mining,Manual Handling,Medium,First Aid,No,0,Lack of training,Arrange refresher training,Closed,W-0017,
+INC-2026-0200,2026-08-11,22:06,Night,Open Pit,Mining,Fall of Ground,High,Lost Time Injury,Yes,2,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0050,
+INC-2026-0201,2026-08-12,23:49,Night,Open Pit,Mining,Struck by Object/Equipment,Low,Near Miss,No,0,Inadequate supervision,Increase supervision and revise task allocation,Closed,W-0039,TRK-029
+INC-2026-0202,2026-08-13,02:47,Night,Crusher Plant,Processing,Slip/Trip/Fall,Medium,No Injury (Property Damage),No,0,Wet or uneven surface,"Repair surface, install drainage and warning signage",Closed,W-0071,
+INC-2026-0203,2026-08-13,17:03,Day,Stockpile,Processing,Manual Handling,Medium,First Aid,No,0,Poor lifting technique,Manual handling training,Closed,W-0096,
+INC-2026-0204,2026-08-17,13:03,Day,Haul Road,Mining,Equipment Failure,High,No Injury (Property Damage),No,0,Operator error,Operator retraining and competency assessment,Closed,W-0011,TRK-060
+INC-2026-0205,2026-08-20,00:32,Night,Workshop,Maintenance,Manual Handling,Medium,First Aid,No,0,Heavy load without lifting aids,Provide lifting aids and two-person lift rule,Closed,W-0130,
+INC-2026-0206,2026-08-21,05:53,Night,Crusher Plant,Processing,Fire/Explosion Hazard,Medium,Medical Treatment,No,0,Electrical fault,Electrical inspection and repair,Closed,W-0086,BLD-018
+INC-2026-0207,2026-08-22,01:45,Night,Stockpile,Mining,Struck by Object/Equipment,High,Medical Treatment,No,0,Poor visibility,"Improve lighting, mirrors and proximity detection",Under Investigation,W-0026,EXC-017
+INC-2026-0208,2026-08-22,22:05,Night,Open Pit,Mining,Fall of Ground,Low,First Aid,No,0,Inadequate support or scaling,Re-scale and install support before re-entry,Under Investigation,W-0010,
+INC-2026-0209,2026-08-23,01:24,Night,Haul Road,Mining,Fall of Ground,Critical,Lost Time Injury,Yes,26,Worker fatigue,Fatigue management review and shift roster adjustment,Under Investigation,W-0018,
+INC-2026-0210,2026-08-23,02:14,Night,Stockpile,Mining,Slip/Trip/Fall,Medium,No Injury (Property Damage),No,0,Procedure not followed,Toolbox talk and supervisor re-induction on procedure,Open,W-0023,
+INC-2026-0211,2026-08-25,23:24,Night,Open Pit,Mining,Struck by Object/Equipment,Low,No Injury (Property Damage),No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Under Investigation,W-0001,LDR-022
+INC-2026-0212,2026-08-26,04:20,Night,Open Pit,Mining,Electrical Hazard,Medium,Medical Treatment,No,0,Damaged cable or insulation,Replace cable and inspect circuit,Under Investigation,W-0025,LDR-050
+INC-2026-0213,2026-08-27,20:14,Night,Open Pit,Mining,Fall of Ground,Low,No Injury (Property Damage),No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Under Investigation,W-0007,
+INC-2026-0214,2026-09-02,08:55,Day,Plant,Processing,Manual Handling,Medium,Medical Treatment,No,0,Heavy load without lifting aids,Provide lifting aids and two-person lift rule,Closed,W-0090,
+INC-2026-0215,2026-09-03,04:41,Night,Crusher Plant,Processing,Struck by Object/Equipment,High,Lost Time Injury,Yes,2,Loose materials not secured,Secure materials and add to pre-shift checklist,Closed,W-0085,CNV-036
+INC-2026-0216,2026-09-03,19:37,Night,Stockpile,Processing,Hazardous Substance/Dust Exposure,Low,Near Miss,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0093,
+INC-2026-0217,2026-09-03,22:18,Night,Stockpile,Mining,Equipment Failure,Medium,Medical Treatment,No,0,Excessive vibration,Inspect bearings and alignment; monitor vibration,Under Investigation,W-0039,EXC-017
+INC-2026-0218,2026-09-08,22:58,Night,Haul Road,Mining,Slip/Trip/Fall,High,Medical Treatment,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Closed,W-0052,
+INC-2026-0219,2026-09-09,02:59,Night,Open Pit,Maintenance,Manual Handling,Medium,Near Miss,No,0,Heavy load without lifting aids,Provide lifting aids and two-person lift rule,Under Investigation,W-0130,
+INC-2026-0220,2026-09-09,05:51,Night,Haul Road,Mining,Vehicle/Equipment Collision,Medium,Medical Treatment,No,0,Poor visibility,"Improve lighting, mirrors and proximity detection",Open,W-0026,DRL-043
+INC-2026-0221,2026-09-09,22:58,Night,Crusher Plant,Maintenance,Slip/Trip/Fall,High,Near Miss,No,0,Wet or uneven surface,"Repair surface, install drainage and warning signage",Under Investigation,W-0130,
+INC-2026-0222,2026-09-11,10:35,Day,Haul Road,Mining,Struck by Object/Equipment,Medium,No Injury (Property Damage),No,0,Exclusion zone not respected,Reinforce barricading and exclusion-zone training,Under Investigation,W-0022,DRL-082
+INC-2026-0223,2026-09-14,17:32,Day,Haul Road,Mining,Equipment Failure,Low,First Aid,No,0,Overheating,Inspect cooling system and monitor temperature,Under Investigation,W-0008,CNV-065
+INC-2026-0224,2026-09-15,00:53,Night,Plant,Engineering,Slip/Trip/Fall,Low,First Aid,No,0,Procedure not followed,Toolbox talk and supervisor re-induction on procedure,Closed,W-0149,
+INC-2026-0225,2026-09-16,05:09,Night,Open Pit,Engineering,Slip/Trip/Fall,Low,No Injury (Property Damage),No,0,Wet or uneven surface,"Repair surface, install drainage and warning signage",Closed,W-0150,
+INC-2026-0226,2026-09-18,11:31,Day,Open Pit,Mining,Electrical Hazard,Low,Near Miss,No,0,Wet conditions,Improve drainage and use rated equipment,Closed,W-0020,TRK-002
+INC-2026-0227,2026-09-19,18:17,Night,Plant,Maintenance,Manual Handling,Low,No Injury (Property Damage),No,0,Heavy load without lifting aids,Provide lifting aids and two-person lift rule,Open,W-0107,
+INC-2026-0228,2026-09-19,22:06,Night,Haul Road,Mining,Equipment Failure,Low,First Aid,No,0,Component wear,Replace worn component and adjust service interval,Closed,W-0001,TRK-073
+INC-2026-0229,2026-09-24,04:31,Night,Stockpile,Mining,Hazardous Substance/Dust Exposure,Medium,Near Miss,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Open,W-0013,
+INC-2026-0230,2026-09-25,17:28,Day,Open Pit,Engineering,Manual Handling,Medium,Near Miss,No,0,Worker fatigue,Fatigue management review and shift roster adjustment,Open,W-0133,
+INC-2026-0231,2026-09-27,02:18,Night,Stockpile,Mining,Slip/Trip/Fall,High,Lost Time Injury,Yes,14,Worker fatigue,Fatigue management review and shift roster adjustment,Under Investigation,W-0044,
+INC-2026-0232,2026-09-27,17:14,Day,Plant,Maintenance,Fire/Explosion Hazard,Low,First Aid,No,0,Hydraulic fluid leak,Repair leak and clean spill,Open,W-0106,WIN-098
+INC-2026-0233,2026-09-28,02:31,Night,Crusher Plant,Processing,Fire/Explosion Hazard,Medium,Medical Treatment,No,0,Overheated equipment,Inspect equipment and review thermal alarms,Open,W-0088,TRK-007
+INC-2026-0234,2026-09-30,00:22,Night,Haul Road,Mining,Vehicle/Equipment Collision,Medium,First Aid,No,0,Speeding,Speed monitoring and disciplinary review,Under Investigation,W-0006,TRK-073
+INC-2026-0235,2026-09-30,02:33,Night,Crusher Plant,Processing,Hazardous Substance/Dust Exposure,Low,First Aid,No,0,Chemical spill,Spill response and storage review,Under Investigation,W-0085,
+INC-2026-0236,2026-09-30,09:11,Day,Stockpile,Mining,Struck by Object/Equipment,Low,First Aid,No,0,Loose materials not secured,Secure materials and add to pre-shift checklist,Open,W-0047,DRL-089
+INC-2026-0237,2026-10-01,19:33,Night,Haul Road,Mining,Manual Handling,Critical,Lost Time Injury,Yes,17,Poor lifting technique,Manual handling training,Under Investigation,W-0015,
+INC-2026-0238,2026-10-02,09:51,Day,Open Pit,Mining,Vehicle/Equipment Collision,Medium,First Aid,No,0,Inadequate traffic management,Revise traffic management plan and signage,Under Investigation,W-0016,BLD-046
+INC-2026-0239,2026-10-02,22:24,Night,Stockpile,Mining,Vehicle/Equipment Collision,High,Lost Time Injury,Yes,39,Worker fatigue,Fatigue management review and shift roster adjustment,Under Investigation,W-0050,DRL-089
+INC-2026-0240,2026-10-03,22:50,Night,Open Pit,Mining,Fall of Ground,Medium,Near Miss,No,0,Poor ground conditions,Geotechnical review and additional ground support,Open,W-0042,

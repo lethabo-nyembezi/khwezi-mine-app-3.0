@@ -1,0 +1,9 @@
+Function,Administrator,Safety Officer,Mining Engineer,Maintenance Engineer,Manager
+View dashboard,Yes,Yes,Yes,Yes,Yes
+Worker safety data,Yes,Yes,Yes,No,Yes
+Safety incidents,Yes,Yes,Yes,No,Yes
+Equipment data,Yes,No,Yes,Yes,Yes
+Maintenance data,Yes,No,Yes,Yes,Yes
+Risk assessment,Yes,Yes,Yes,No,Yes
+Generate reports,Yes,Yes,Yes,Yes,Yes
+Manage users,Yes,No,No,No,No
