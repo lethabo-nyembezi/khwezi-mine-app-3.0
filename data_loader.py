@@ -2,7 +2,10 @@
 from pathlib import Path
 import pandas as pd
 
-DATA = Path(__file__).parent / "data"
+BASE = Path(__file__).parent
+DATA = BASE / "data"
+if not DATA.is_dir():
+    DATA = BASE
 
 
 def load_all():
