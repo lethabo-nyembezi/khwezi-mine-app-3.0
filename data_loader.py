@@ -3,9 +3,9 @@ from pathlib import Path
 import pandas as pd
 
 BASE = Path(__file__).parent
-DATA = BASE / "data"
-if not DATA.is_dir():
-    DATA = BASE
+DATA = BASE
+if not (DATA / "Equipment_database.csv").is_file() and (BASE / "data").is_dir():
+    DATA = BASE / "data"
 
 
 def _normalize_lowercase_columns(df):
