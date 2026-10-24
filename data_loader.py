@@ -8,12 +8,24 @@ if not DATA.is_dir():
     DATA = BASE
 
 
+def _normalize_lowercase_columns(df):
+    abbreviations = {"id": "ID", "c": "C", "mm": "mm", "s": "s", "l": "L", "h": "h"}
+    return df.rename(columns={
+        column: "_".join(abbreviations.get(part, part.capitalize()) for part in column.split("_"))
+        for column in df.columns if column == column.lower()
+    })
+
+
 def load_all():
     """Load every CSV into a dictionary of DataFrames, converting date columns."""
+    equipment = _normalize_lowercase_columns(pd.read_csv(DATA / "Equipment_database.csv"))
+    equipment["Last_Maintenance_Date"] = pd.to_datetime(equipment["Last_Maintenance_Date"])
+    equipment["Next_Maintenance_Date"] = pd.to_datetime(equipment["Next_Maintenance_Date"])
+    readings = _normalize_lowercase_columns(pd.read_csv(DATA / "equipment_readings.csv"))
+    readings["Date"] = pd.to_datetime(readings["Date"])
     return {
-        "equipment": pd.read_csv(DATA / "Equipment_database.csv",
-                                 parse_dates=["Last_Maintenance_Date", "Next_Maintenance_Date"]),
-        "readings": pd.read_csv(DATA / "equipment_readings.csv", parse_dates=["Date"]),
+        "equipment": equipment,
+        "readings": readings,
         "workers": pd.read_csv(DATA / "workers.csv", parse_dates=["Safety_Training_Expiry_Date"]),
         "incidents": pd.read_csv(DATA / "safety_incidents.csv", parse_dates=["Date"]),
         "risks": pd.read_csv(DATA / "risk_register.csv", parse_dates=["Next_Review_Date"]),
