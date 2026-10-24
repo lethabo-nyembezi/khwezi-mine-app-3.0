@@ -93,3 +93,27 @@ def q_avail(d, inc):
     return t, _bar(t, "Equipment_Type", "Availability_Percent", "Average availability by type"), f"Average fleet availability is **{round(d['equipment']['Availability_Percent'].mean(), 1)}%**."
 
 
+QUESTIONS = {
+    "How many incidents occurred in the selected period?": ("safety", lambda d, i: (i.groupby(i["Date"].dt.strftime("%Y-%m")).size().reset_index(name="Incidents").rename(columns={"Date": "Month"}), None, f"**{len(i)}** incidents in the selected period.")),
+    "Which department has the highest number of incidents?": ("safety", lambda d, i: _count(i, "Department", "Incidents by department")),
+    "Which shift records the most incidents?": ("safety", lambda d, i: _count(i, "Shift", "Incidents by shift")),
+    "What percentage of workers comply with PPE?": ("safety", q_ppe),
+    "How many near misses have been recorded?": ("safety", q_nearmiss),
+    "Which incident types occur most frequently?": ("safety", lambda d, i: _count(i, "Incident_Type", "Incident types")),
+    "How many incidents are High or Critical?": ("safety", q_highcrit),
+    "Is there a difference between day and night shifts?": ("safety", q_shift),
+    "What are the most common causes of incidents?": ("safety", q_causes),
+    "Which equipment has the highest downtime?": ("equipment", lambda d, i: _top(d["equipment"], "Downtime_Hours", "Highest downtime (h)")),
+    "Which equipment has the lowest availability?": ("equipment", lambda d, i: _top(d["equipment"], "Availability_Percent", "Lowest availability (%)", asc=True)),
+    "Which equipment has the highest vibration?": ("equipment", lambda d, i: _top(d["equipment"], "Vibration_mm_s", "Highest vibration (mm/s)")),
+    "Which equipment has the highest temperature?": ("equipment", lambda d, i: _top(d["equipment"], "Temperature_C", "Highest temperature (C)")),
+    "Which equipment has generated the most alerts?": ("equipment", lambda d, i: _top(d["equipment"], "Alert_Count", "Most alerts")),
+    "Which equipment is overdue for maintenance?": ("equipment", q_overdue),
+    "What is the average equipment availability?": ("equipment", q_avail),
+    "Which equipment type has the highest downtime?": ("equipment", q_type_down),
+    "Which equipment requires immediate inspection?": ("equipment", q_inspect),
+    "Which equipment should receive maintenance priority?": ("equipment", q_priority),
+    "What percentage of equipment is operating normally?": ("equipment", q_normal),
+    "How many critical alerts are currently active?": ("equipment", q_critical),
+    "Which departments have both high safety risk and high downtime?": ("both", q_dept_risk),
+}
